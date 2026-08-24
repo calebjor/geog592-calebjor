@@ -4,8 +4,8 @@ This repository contains exercises and assignments for GEOG 592.
 
 ## Student information
 
-Name:
+Name: Caleb Jordan
 
-ONYEN:
+ONYEN: calebjor
 
-GitHub username:
+GitHub username: calebjor
